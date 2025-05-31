@@ -1,11 +1,11 @@
 {
-    "name": "Almy",
-    "description": "Almycryptobot Application for managing  rewards.",
-    "iconUrl": "https://almyi.com/logo_1.png",
+    "name": "Almyi",
+    "description": "Unique content, creativity and inspiration. Join now!",
+    "iconUrl": "https://almyi.com/icons/icons8-circled-play-100.png",
     "url": "https://almyi.com",
     "support": {
         "email": "almy@almyi.com",
-        "url": "https://t.me/almy_community"
+        "url": "https://almyi.com"
     },
     "extra": {
         "features": ["connect", "sendTransaction"]
